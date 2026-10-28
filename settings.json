@@ -1,7 +1,7 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "SoloCloudHosting",
+    "username": "Server_Bot",
     "password": "",
     "type": "offline"
   },
@@ -32,8 +32,8 @@
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
-        "Subscribe to SoloPlayz!",
-        "Want Cheap Premium MC Server? https://discord.gg/VRMUnDkf95"
+        "Give me daimonds",
+        "Want Netherite Press Alt+f4"
       ]
     },
     "chat-log": true,
