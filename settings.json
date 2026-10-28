@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Tinypet12.aternos.me",
-    "port": 26630,
+    "ip": "NSC8.aternos.me",
+    "port": 60548,
     "version": "1.20.1",
     "try-creative": false
   },
